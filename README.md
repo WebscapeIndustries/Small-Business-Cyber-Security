@@ -8,7 +8,7 @@ predictive models regarding data breach trends.
 
 Although this data is based on global threats, it has a large bias towards American data breaches. We expect the overall trends shown by this data to represent the general threat for American small businesses, and considering California is consistently the highest targeted state in the US we will assume this data gives a fair representation of California small business data breach threats. 
 
-As another reference, we will also compare the state-level data from the yearly FBI: Internet Crime Reports. This data breaks down various threat types, but it doesn't separate the business victims from the individual victims for each threat type meaning it may be less accurate with regards to business. Using both datasets, we will aim to get a bigger picture of the data breach threats for small businesses in California.
+As another reference, we will also compare the state-level data from the yearly FBI: Internet Crime Reports. This data breaks down various threat types, but it doesn't separate the business victims from the individual victims for each threat type meaning it may be less accurate with regards to business. Using both datasets, we will aim to get a better picture of the data breach threats for small businesses in California.
 
 This is where we will add our code and images relating to small business data breaches and small business cyber security. 
 
