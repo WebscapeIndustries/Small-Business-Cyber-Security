@@ -1,8 +1,12 @@
 # Small-Business-Cyber-Security
-Information about small business cyber security to help small businesses make data driven decisions about cyber protection
+Information about small business cyber security to help small businesses make data driven decisions about cyber protection. 
 
-We've conducted a comprehensive analysis of cyber security trends, specifically focusing on small businesses with less than 100 employees. We have analyzed over 9,000 data incidents and 5,990 confirmed data breaches using the the tools and data provided by the Veris Community Database. 
+We've conducted a comprehensive analysis of cyber security trends, specifically focusing on small businesses with less than 100 employees. 
 
-Here is where we will add our code and images relating to small business data breaches and small business cyber security. 
+We have analyzed over 9,000 data incidents and 5,990 confirmed data breaches using the the tools and data provided by the Veris Community Database. The data is global to see general trends in cyber security. This helps us to gain 
+predictive models regarding data breach trends. Although this data is based on global threats, it has a large  
+bias towards American data breaches. We expect the overall trends shown by this data to represent the general threat for American small businesses, and considering California is consistently the highest targeted state in the US we will assume this data gives a fair representation of California small business data breach threats. We will also compare the state-level data from the yearly FBI: Internet Crime Reports to check that it matches up with our assumptions.
+
+This is where we will add our code and images relating to small business data breaches and small business cyber security. 
 
 
