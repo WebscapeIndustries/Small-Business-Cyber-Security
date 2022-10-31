@@ -1,7 +1,6 @@
-# California Small Business Cyber Security 2023
-We have put together this repository to help California small businesses better understand the current cybersecurity threat landscape and to help them make data-informed cybersecurity decisions as they create or update their cybersecurity plans in 2023. 
+# Small Business Cyber Security 2023
+We have put together this repository to help small businesses better understand the current cybersecurity threat landscape and to help them make data-informed cybersecurity decisions as they create or update their cybersecurity plans in 2023. 
 
-Although the data here can benefit all small businesses, Our analysis specifically focuses on data relevant to California small businesses with less than 100 employees. 
 
 
 
